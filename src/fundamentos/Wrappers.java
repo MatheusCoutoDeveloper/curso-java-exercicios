@@ -1,8 +1,6 @@
 package fundamentos;
 
-import java.util.Scanner;
-
-public class Wrapper {
+public class Wrappers {
     public static void main(String[] args) {
 
         Byte b = 100;
